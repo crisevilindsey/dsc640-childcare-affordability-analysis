@@ -98,7 +98,7 @@ This repository contains:
 - **PowerPoint Presentation (.pptx):** Findings and policy implications
 - **Final Report (.pdf):** Analytical summary, visualization design decisions, findings, assumptions, and limitations
 
-The notebook uploaded to GitHub has its saved execution outputs cleared to reduce file size. Its analytical code is preserved.
+The notebook includes its saved execution outputs. The interactive county map is regenerated as `county_infant_cost_map.html` when the notebook runs, and a static preview (`county_infant_cost_map.png`) is shown in the notebook.
 
 ## How to Reproduce the Analysis
 
